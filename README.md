@@ -4,8 +4,9 @@
 > **IA LIVE Method for Autonomous Lifelong Learning**  
 > **Official Repository of the World Movement of the IA LIVE Method**
 
+🌐 **Idiomas**
 ---
-**EN ENGLISH**
+**US ENGLISH**
 ---
 
 # IA LIVE FOUNDATION
@@ -354,6 +355,8 @@ Building the future of autonomous lifelong learning through Artificial Intellige
 © IA LIVE Foundation — All Rights Reserved.
 
 ---
+
+🌐 **Idiomas**
 
 **ES - ESPANOL**
 
